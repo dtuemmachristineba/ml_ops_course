@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import matplotlib.pyplot as plt  # only needed for plotting
 import torch
-import numpy as numpy
+import numpy as np
 from mpl_toolkits.axes_grid1 import ImageGrid  # only needed for plotting
 
 DATA_PATH = "data/corruptmnist"
